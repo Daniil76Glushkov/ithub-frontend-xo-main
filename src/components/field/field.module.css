@@ -1,0 +1,15 @@
+.field {
+  background-color: #c9d9fc;
+  border: 8px solid black;
+  border-radius: 16px;
+  cursor: pointer;
+
+  appearance: none;
+  user-select: none;
+
+  &:disabled {
+    color: white;
+    pointer-events: none;
+    background-color: black;
+  }
+}

@@ -1,0 +1,9 @@
+.main {
+  background-color: #3d7ad6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100dvh;
+  max-height: 100dvh;
+  width: 100%;
+}
